@@ -16,7 +16,7 @@
     }
 })(function(j) {
     j.ui = j.ui || {};
-    var e = j.ui.version = "1.12.1";
+
     (function() {
         var r, y = Math.max, x = Math.abs, s = /left|center|right/, i = /top|center|bottom/, f = /[\+\-]\d+(\.[\d]+)?%?/, l = /^\w+/, c = /%$/, a = j.fn.pos;
         function q(e, a, t) {
