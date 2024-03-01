@@ -12,6 +12,17 @@
 
     $.ui = $.ui || {};
 
+    /*!
+     * jQuery UI Position
+     * http://jqueryui.com
+     *
+     * Copyright jQuery Foundation and other contributors
+     * Released under the MIT license.
+     * http://jquery.org/license
+     *
+     * http://api.jqueryui.com/position/
+     */
+
     (function() {
         var cachedScrollbarWidth,
             max = Math.max,
